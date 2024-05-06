@@ -1,0 +1,48 @@
+@media (min-width: 992px) {
+.navbar{
+    padding-top: 15px !important;
+    padding-left: 200px !important;
+    padding-right: 200px !important;
+    background-color: transparent !important;
+}
+}
+.nav-item{
+    padding: 0px 10px !important;
+}
+
+
+.hero{
+    display: flex;
+    position: relative;
+}
+
+.bg-image {
+    opacity: 0.05;
+    width: 100vw;
+    height: 740px;
+    box-shadow: 0px 0px 580px 0px #000000;
+  }
+
+header{
+    position:absolute;
+    width: 100vw;
+}
+
+.project-button{
+    background-color: #473BF0;
+    color: white;
+}
+
+/* .hero{
+       position: relative;
+    background-image: url('../../assets/background-hero.png');
+    height: 740px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    background-color: #F4F7FA;
+    opacity: 0.05;
+}  */
+
+
+
