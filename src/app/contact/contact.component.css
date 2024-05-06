@@ -1,0 +1,24 @@
+.contact-form{
+    padding-top: 150px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-container{
+    justify-content: center;
+    display: flex;
+}
+
+img{
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.form-size{
+    width: 100%;
+}
+
+.submit-button{
+    background-color: #473BF0;
+    color: white;
+}

@@ -1,4 +1,4 @@
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
 .navbar{
     padding-top: 15px !important;
     padding-left: 200px !important;
@@ -8,87 +8,88 @@
 }
 .nav-item{
     padding: 0px 10px !important;
-}
+} */
 
 
-.hero{
+/* .hero{
     display: flex;
     position: relative;
-}
+} */
 
 .bg-image {
     opacity: 0.05;
     width: 100vw;
     height: 740px;
+    z-index: -9999;
   }
 
-header{
+/* header{
     position:absolute;
     width: 100%;
-}
+} */
 
-.project-button{
+/* .project-button{
     background-color: #473BF0;
     color: white;
-}
+} */
 
 .story-heading{
     color: #F64B4B;
     font-family: gilroy-bold;
-    font-weight: 700;
-    font-size: 13px;
-    padding: 25px 0px;
+    /* font-weight: 700; */
+    /* font-size: 13px; */
+    /* padding: 25px 0px; */
 }
 
 .story-text-content{
     color: #161C2D;
-    font-size: 36px;
+    /* font-size: 36px; */
     font-family: gilroy-bold;
-    max-width: 45%;
+    /* max-width: 45%; */
 }
 
-.image-container{
+/* .image-container{
     padding-top: 100px;
     padding-bottom: 50px;
-}
+} */
 
-.story-inner-imgcontainer{
+/* .story-inner-imgcontainer{
     padding-left: 100px;
-}
+} */
 
-.story-large-image{
+/* .story-large-image{
     max-height: 750px;
     max-width:550px;
-}
+} */
 
-.story-medium-image{
+/* .story-medium-image{
     position: relative;
     top: -125px;
     max-height: 300px
-}
+} */
 
-.small-img-container{
+/* .small-img-container{
     padding-left: 75px;
 
-}
+} */
 
-.story-small-image{
+/* .story-small-image{
    border-radius: 10%;
     max-height: 150px;
     padding-bottom: 10px;
-}
+} */
 
 .story-image-text{
-    opacity: 0.7;
-    font-size: 17px;
+    /* opacity: 0.7;
+    font-size: 17px; */
     font-family: gilroy;
-    max-width: 500px;
+    /* max-width: 500px; */
 }
 
-.user-metrics{
+/* .user-metrics{
     text-align: center;
     max-width: 275px;
-}
+} */
 
 .numbers{
     font-family: gilroy-bold;
@@ -103,6 +104,8 @@ header{
     color: #161C2D;
     opacity: 0.7;
 }
+
+
 
 /* .hero{
        position: relative;
