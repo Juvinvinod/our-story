@@ -8,6 +8,7 @@ import { ContactComponent } from './contact/contact.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { CountUpDirective } from './count-up.directive';
 import { FormsModule } from '@angular/forms';
+import { ImageScrollDirective } from './image-scroll.directive';
 
 @NgModule({
   declarations: [
@@ -16,6 +17,7 @@ import { FormsModule } from '@angular/forms';
     ContactComponent,
     NavbarComponent,
     CountUpDirective,
+    ImageScrollDirective,
   ],
   imports: [BrowserModule, AppRoutingModule, FormsModule],
   providers: [],
